@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServidorApplication<servidor>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.master.servidor.ServidorApplication",
+            "projectName": "servidor",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
